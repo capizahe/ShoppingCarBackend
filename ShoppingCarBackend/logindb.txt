@@ -1,0 +1,2 @@
+camiloandrespiza@gmail.com	123456789 REG_USER true
+leidyom8@gmail.com 123456 REG_USER 1 true
